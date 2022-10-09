@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141071479384",
+    "project_id": "flyprojectc6",
+    "storage_bucket": "flyprojectc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141071479384:android:205663f56e7a0e3dc5502d",
+        "android_client_info": {
+          "package_name": "com.zeynelinho.projectfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141071479384-m0jq5u2ud1sng9209glsqjtnmcdprn85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1VJTK6qJ7XWRUfO3_6GsKIlLSqMTn7Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141071479384-m0jq5u2ud1sng9209glsqjtnmcdprn85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
